@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines the HBNB console."""
+"""Defines the HBNB console. @author: @medjarraya"""
 import cmd
 from shlex import split
 from models import storage
