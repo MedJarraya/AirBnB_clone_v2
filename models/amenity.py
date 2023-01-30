@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is the amenity class"""
+"""This is the amenity class @author: @medjarraya"""
 from models.base_model import BaseModel, Base
 from sqlalchemy import Column, String, ForeignKey, Integer, Float, Table
 from sqlalchemy.orm import relationship
