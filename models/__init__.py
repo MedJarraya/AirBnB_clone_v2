@@ -2,7 +2,7 @@
 """Instantiates a storage object.
 -> If the environmental variable 'HBNB_TYPE_STORAGE' is set to 'db',
    instantiates a database storage engine (DBStorage).
--> Otherwise, instantiates a file storage engine (FileStorage).
+-> Otherwise, instantiates a file storage engine (FileStorage). @author: @medjarraya
 """
 from os import getenv
 

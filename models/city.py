@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is the city class"""
+"""This is the city class @author: @medjarraya"""
 from models.base_model import BaseModel, Base
 from sqlalchemy import Column, String, ForeignKey
 from sqlalchemy.orm import relationship
